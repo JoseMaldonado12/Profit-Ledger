@@ -9,6 +9,7 @@ you could do with a pen and paper (thought with added bells and whistles).
 
 ## Getting started
 In order to get started, you can either download the src folder and compile the files yourself, or you can download the build folder
+
 and run the exe in there-simple as that. Once the program is up and running, you will find a screen similar to this 
 
 ![](image_src/landing_page.PNG)
@@ -25,7 +26,6 @@ This is an example of what a filled up database could look like.
 
 ## Sources
 This program was based on Qt's own [Address Book Example](https://doc.qt.io/qt-5/qtwidgets-itemviews-addressbook-example.html) .
-
 
 
 

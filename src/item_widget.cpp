@@ -211,6 +211,7 @@ void item_widget::editEntry()
        int newProfit = 0;
        if(newBrand != brand || newType != typeOfItem || newColor !=colorOfItem ||
           newCost != cost || newSold != sold || newWeight != weight){ //if any of these attributes changes...
+
            QModelIndex index = table->index(row, 1, QModelIndex());
            newBrand[0]=newBrand[0].toUpper();
            table->setData(index,newBrand, Qt::EditRole);
