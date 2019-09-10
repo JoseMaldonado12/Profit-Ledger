@@ -8,8 +8,7 @@ by anyone looking to resell in Ebay. This is meant for people who don't want to 
 you could do with a pen and paper (thought with added bells and whistles).
 
 ## Getting started
-In order to get started, you can either download the src folder and compile the files yourself, or you can download the build folder
-and run the exe in there-simple as that. Once the program is up and running, you will find a screen similar to this: 
+In order to get started, you can either download the src folder and compile the files yourself, or you can go to the build folder, and then the installer folder to download the installer. You can also go to build->compiled files, and the EXE will be right there, thought this is a bigger file to download and you wont be able to have either a desktop shortcut or a start menu shortcut with this option. Once the program is up and running, you will find a screen similar to this: 
 
 ![](image_src/landing_page.PNG)
 
