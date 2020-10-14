@@ -1,10 +1,11 @@
-# Ebay Selling List 
-A Simple Ebay resellers' app built with QT 5.12.2 and C++ 11.
+# Profit Ledger
+A Simple ledger app that calculates profit built with QT 5.12.2 and C++ 11.
 
 ## Project information
-This program is an Ebay selling list, built for people who resell in Ebay. While this initially
+This program is a profit ledger, built for mostly small business/perosnal use. While this initially
 started as a simple project to practice QT libraries, I have further developed it into a program useable
-by anyone looking to resell in Ebay. This is meant for people who don't want to pay a pretty penny for anything more fancy than what
+by anyone looking to keep track of and calculate sold items and the profit one got from selling said items. 
+This is meant for people who don't want to pay a pretty penny for anything more fancy than what
 you could do with a pen and paper (thought with added bells and whistles).
 
 ## Getting started
